@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+         <!--it display symbol,emoji,other language correctly -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <!--By using this we can open through mobiles,tablets... -->
+          <meta http-equiv="refresh" content="3; url=welcome.html">
+          <!--When we use this,it will direct to another html file as mentioned in the meta -->
+          <!--we can able to set time,here it is 3,after 3 sec it will lead to another html file-->
+          <meta property="og:title" content="Suwetha's Portfolio">
+          <meta property="og:description" content="Welcome to my web portfolio!">
+          <meta property="og:image" content="https://i.ibb.co/2d1L0Vb/sample.jpg">
+          <meta property="og:type" content="website">
+        <title>Welcome</title>
+    </head>
+    <body>
+        <h2>1.Heading</h2>
+        <hr>
+        <h1>Hello Everyone</h1>
+        <br>
+        <h2>2.Heading</h2>
+        <p><b>Bold Text</b></p>
+        <p><i>Italic Text</i></p>
+        <p><u>Underlined Text</u></p>
+        <p><mark>Highlight Text</mark></p>
+        <p><em>Emphasized Text</em></p>
+        <p><small>Small Text</small></p>
+        <p><del>Deleted Text</del></p>
+        <p><ins>Inserted Text</ins></p>
+        <hr>
+        <h2>Hello Everyone</h2>
+        <h3>Hello Everyone</h3>
+        <p>Welcome to my Webpage</p>
+    </body>
+</html>
